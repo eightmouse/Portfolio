@@ -604,13 +604,13 @@ img{
 
 /*Header img for the "works" area*/
 .page-top .image__reile{
-    background:url(../img/about.png) no-repeat center;
+    background:url(../img/design-open.png) no-repeat center;
     background-size:cover
 }
 
 /*Header img for the "about me" area*/
 .page-top .image__about{
-    background:url(../img/contact.png) no-repeat center;
+    background:url(../img/about-open.png) no-repeat center;
     background-size:cover
 }
 .text{
@@ -1276,7 +1276,7 @@ header .global-nav__sns a:last-child{
 }
 /*index about img*/
 .image--about{
-    background:url(../img/aeroplayer.png) no-repeat center;
+    background:url(../img/about.png) no-repeat center;
     background-size:cover
 }
 /*index contact img*/
